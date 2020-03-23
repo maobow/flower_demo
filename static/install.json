@@ -1,0 +1,9 @@
+{
+  "about":{
+    "imgSrc":"https://img.yzcdn.cn/vant/cat.jpeg",
+    "content":"内容"
+  },
+  "privatePolicy": "隐私政策",
+  "userAgreement": "用户协议",
+  "businessCooperation":"商业合作"
+}
